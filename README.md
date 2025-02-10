@@ -34,7 +34,7 @@
   
 ### Studying in this moment:
 
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)&nbsp;
 ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=FastApi&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
